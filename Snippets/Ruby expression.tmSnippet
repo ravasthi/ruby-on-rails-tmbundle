@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${TM_RAILS_TEMPLATE_START_RUBY_EXPR}$1${TM_RAILS_TEMPLATE_END_RUBY_EXPR}$0</string>
+	<key>name</key>
+	<string>Ruby expression</string>
+	<key>scope</key>
+	<string>text.html.erb.rails, text.haml</string>
+	<key>tabTrigger</key>
+	<string>ex</string>
+	<key>uuid</key>
+	<string>6948BD44-980B-4087-9470-9CECC2B5CF41</string>
+</dict>
+</plist>
